@@ -1,23 +1,40 @@
-import logo from './logo.svg';
 import './App.css';
 
+import Header from './components/Header';
+import Index from './pages/Index';
+import Error from './pages/Error';
+
+import { BrowserRouter, Routes, Route } from 'react-router-dom'
+import { useState } from 'react';
+
 function App() {
+  const [page, setPage] = useState("hem")
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <BrowserRouter>
+        <Header page={page} setPage={setPage}/>
+        <Routes>
+          <Route path="/"    element={<Index/>}/>
+          <Route path="/hem" element={<Index/>}/>
+          <Route path="/*"   element={<Error/>}/>
+        </Routes>
+      </BrowserRouter>
+      {
+        /* 
+        TODO
+        ====
+        - Gör Temaenlig
+        - Karta
+        - Se Aktuella Nolleuppdrag
+        - Nollehandbok mer lättnavigerad
+        - Få in länkar till sociala medier på bättre sätt
+        - Snyggare kalender
+        - Fadderjobb
+        - Nolleenkät
+        - Förbättra informationssidan
+        */
+      }
     </div>
   );
 }

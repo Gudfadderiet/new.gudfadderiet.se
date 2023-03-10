@@ -1,0 +1,9 @@
+.Error-Content {
+    background-color: black;
+    width: 50%;
+    margin: auto;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    color: yellow;
+}

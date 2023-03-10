@@ -1,0 +1,15 @@
+.Header-Img-Wrapper {
+    background-color: black;
+}
+
+.GF-Img {
+    width: 45%;
+    padding: 16px;
+}
+
+.GF-Logo {
+    width: 64px;
+    padding: 16px;
+    position: absolute;
+    left: 0;
+}
