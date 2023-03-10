@@ -1,0 +1,21 @@
+.Schema {
+    background-color: black;
+    width: 50%;
+    margin: auto;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    color: yellow;
+}
+
+#klasser {
+    background-color: #7e1519;
+    font-size: 24px;
+    width: 256px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 32px;
+    color: yellow;
+    border: none;
+    padding: 8px;
+}

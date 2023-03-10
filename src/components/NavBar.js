@@ -3,7 +3,7 @@ import './css/NavBar.css'
 import { Link } from 'react-router-dom'
 
 function NavBar({activePage, setPage}) {
-  const ids = ["Hem", "Information", "Schema", "Nollehandboken"]
+  const ids = ["Hem", "Information", "Schema", "Dokument"]
 
   function changeActive(e) {
     setPage(e.target.id)
