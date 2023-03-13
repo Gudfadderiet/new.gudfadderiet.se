@@ -1,3 +1,21 @@
+.Event-Wrapper {
+    border: 1px solid yellow;
+    margin: 8px;
+    text-align: left;
+}
+
+.Event-Title {
+    text-align: center;
+}
+
+.Event-Title h2, .Event-Title p {
+    margin: 8px;
+}
+
+.Event-Desc, .Event-Location, .Event-Alcohol, .Event-Ticket {
+    margin: 8px;
+}
+
 .Schema {
     background-color: black;
     width: 50%;
