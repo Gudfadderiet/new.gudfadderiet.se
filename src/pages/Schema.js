@@ -23,7 +23,6 @@ function Schema() {
         })
         .then(res => res.json())
         .then(data => {
-            console.log(data.results)
             setEvents(data.results)
         });
     }, []);

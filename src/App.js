@@ -7,6 +7,7 @@ import Error from './pages/Error';
 import Information from './pages/Information';
 import Schema from './pages/Schema';
 import Dokument from './pages/Dokument';
+import Form from './pages/Form';
 
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import { useState } from 'react';
@@ -33,6 +34,7 @@ function App() {
           <Route path="/information" element={<Information/>}/>
           <Route path="/schema" element={<Schema/>}/>
           <Route path="/dokument" element={<Dokument/>}/>
+          <Route path="/nolleenkat" element={<Form/>}/>
           <Route path="/*"   element={<Error/>}/>
         </Routes>
       </BrowserRouter>

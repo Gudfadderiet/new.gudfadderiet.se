@@ -1,7 +1,10 @@
 .Event-Wrapper {
     border: 1px solid yellow;
-    margin: 8px;
     text-align: left;
+    width: 512px;
+    margin: 8px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .Event-Title {
