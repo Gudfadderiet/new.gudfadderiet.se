@@ -1,0 +1,27 @@
+.Post {
+    width: 50%;
+    margin: auto;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    color: yellow;
+}
+
+.Post p {
+    text-align: left;
+}
+
+
+.Post-Title {
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+
+.Post-Subtitle {
+    padding-top: 0;
+    margin-top: 0;
+}
+
+.Post img {
+    width: 100%;
+}

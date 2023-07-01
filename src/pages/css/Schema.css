@@ -1,7 +1,7 @@
 .Event-Wrapper {
     border: 1px solid yellow;
     text-align: left;
-    width: 512px;
+    max-width: 512px;
     margin: 8px;
     margin-left: auto;
     margin-right: auto;
@@ -20,23 +20,30 @@
 }
 
 .Schema {
-    background-color: black;
     width: 50%;
     margin: auto;
     min-height: 100vh;
     display: flex;
     flex-direction: column;
+}
+
+/* Adjust font size for smaller screens */
+@media only screen and (max-width: 768px) {
+    .Schema {
+        width: 90vw;
+    }
+}
+
+.Yellow {
     color: yellow;
 }
 
-#klasser {
-    background-color: #7e1519;
+#filter {
+    background-color: #608132;
     font-size: 24px;
-    width: 256px;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 32px;
-    color: yellow;
+    color: white;
     border: none;
     padding: 8px;
 }

@@ -1,19 +1,44 @@
+:root {
+    --background-color: #061a1b;
+    --color: #c58d56;
+
+    --font-size-small: 16px;
+    --font-size-medium: 20px;
+    --font-size-large: 32px;
+    --font-size-xlarge: 48px;
+}
+
 .App-Content {
-    background-color: black;
     width: 50%;
     margin: auto;
     min-height: 100vh;
     display: flex;
     flex-direction: column;
-    color: yellow;
 }
-  
-.App-Content p {
+
+/* Adjust font size for smaller screens */
+@media only screen and (max-width: 768px) {
+    .App-Content {
+        width: 90vw;
+    }
+}
+
+.App-Section h1 {
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.App-Content p, .App-Content h2 {
     text-align: left;
-    color: yellow;
 }
-  
+
 .GF-Helgrupp {
     width: 100%;
     margin: auto;
+}
+
+.Icon {
+    float: left;
+    margin-right: 16px;
+    font-size: 32px;
 }

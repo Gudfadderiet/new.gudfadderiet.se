@@ -1,5 +1,13 @@
+:root {
+    --background-color: #061a1b;
+}
+
 .NavBar {
-    background-color: #7e1519;
+    background-color: #2c4130;
+    /*
+    2c4130
+    1a5d2d
+    */
     width: 100%;
 }
 
@@ -25,11 +33,11 @@
 }
 
 .NavBar li a:hover {
-    color: black;
+    color: var(--background-color);
 }
 
 .NavBar li a.active {
-    color: black;
+    color: var(--background-color);
     text-decoration: underline;
     font-weight: 600;
 }

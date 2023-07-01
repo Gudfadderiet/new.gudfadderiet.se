@@ -1,0 +1,1197 @@
+{
+  "kind": "calendar#events", 
+  "defaultReminders": [], 
+  "items": [
+    {
+      "status": "confirmed", 
+      "kind": "calendar#event", 
+      "end": {
+        "timeZone": "Europe/Stockholm", 
+        "dateTime": "2023-08-15T13:00:00+02:00"
+      }, 
+      "created": "2023-06-01T12:54:04.000Z", 
+      "iCalUID": "2p6tpr1mspnltsdk4u3m9kpna8@google.com", 
+      "reminders": {
+        "useDefault": true
+      }, 
+      "htmlLink": "https://www.google.com/calendar/event?eid=MnA2dHByMW1zcG5sdHNkazR1M205a3BuYTggY181ZDc0NDcwN2ViNjdmNzIwMDMxODQzZTc0MjllMzA0NWUzZWQwNDQwODJiM2QwZTBlMzc4NWJmNWRiZWMzZWJkQGc", 
+      "sequence": 0, 
+      "updated": "2023-06-01T14:13:08.116Z", 
+      "summary": "Upprop/LiU-kort/Scenshow (Prel. tid)", 
+      "start": {
+        "timeZone": "Europe/Stockholm", 
+        "dateTime": "2023-08-15T08:00:00+02:00"
+      }, 
+      "etag": "\"3371257576232000\"", 
+      "eventType": "default", 
+      "organizer": {
+        "self": true, 
+        "displayName": "Nolle-P BIO1A", 
+        "email": "c_5d744707eb67f720031843e7429e3045e3ed044082b3d0e0e3785bf5dbec3ebd@group.calendar.google.com"
+      }, 
+      "creator": {
+        "email": "general@gudfadderiet.se"
+      }, 
+      "id": "2p6tpr1mspnltsdk4u3m9kpna8"
+    }, 
+    {
+      "status": "confirmed", 
+      "kind": "calendar#event", 
+      "end": {
+        "timeZone": "Europe/Stockholm", 
+        "dateTime": "2023-08-26T13:00:00+02:00"
+      }, 
+      "description": "<span>N0llan kanske vill ladda upp med lite energi inf\u00f6r den stora hajken, och vad passar d\u00e5 b\u00e4ttre \u00e4n en brunch i Ryds Herrg\u00e5rd! H\u00e4r blir N0llan bjuden p\u00e5 god mat och g\u00f6tt h\u00e4ng!</span>", 
+      "created": "2023-06-01T10:25:46.000Z", 
+      "iCalUID": "3tlo6e0i8bvd3t8amjc6c8j72n@google.com", 
+      "reminders": {
+        "useDefault": true
+      }, 
+      "htmlLink": "https://www.google.com/calendar/event?eid=M3RsbzZlMGk4YnZkM3Q4YW1qYzZjOGo3Mm4gY181ZDc0NDcwN2ViNjdmNzIwMDMxODQzZTc0MjllMzA0NWUzZWQwNDQwODJiM2QwZTBlMzc4NWJmNWRiZWMzZWJkQGc", 
+      "sequence": 0, 
+      "updated": "2023-06-03T13:48:06.587Z", 
+      "summary": "Brunch", 
+      "start": {
+        "timeZone": "Europe/Stockholm", 
+        "dateTime": "2023-08-26T11:00:00+02:00"
+      }, 
+      "etag": "\"3371600173174000\"", 
+      "location": "Ryds Herrg\u00e5rd, Als\u00e4ttersgatan 19, 580 10 Link\u00f6ping, Sverige", 
+      "eventType": "default", 
+      "organizer": {
+        "self": true, 
+        "displayName": "Nolle-P BIO1A", 
+        "email": "c_5d744707eb67f720031843e7429e3045e3ed044082b3d0e0e3785bf5dbec3ebd@group.calendar.google.com"
+      }, 
+      "creator": {
+        "email": "general@gudfadderiet.se"
+      }, 
+      "id": "3tlo6e0i8bvd3t8amjc6c8j72n"
+    }, 
+    {
+      "status": "confirmed", 
+      "kind": "calendar#event", 
+      "end": {
+        "timeZone": "Europe/Stockholm", 
+        "dateTime": "2023-08-15T20:00:00+02:00"
+      }, 
+      "description": "<span>N0llan ska f\u00e5 l\u00e4ra sig att hitta p\u00e5 campus, ojoj vad sp\u00e4nnande!<br></span><br><u>\u00d6vrig Information</u><br><b>Mat:</b> Ja<b>.<br>Alkohol: </b>Nej, det h\u00e4r \u00e4r ett alkoholfritt event.<br><b>Biljett: </b>Nej.", 
+      "created": "2023-06-01T13:11:08.000Z", 
+      "iCalUID": "1qomhhgm48d25ke28bis3j4dg6@google.com", 
+      "reminders": {
+        "useDefault": true
+      }, 
+      "htmlLink": "https://www.google.com/calendar/event?eid=MXFvbWhoZ200OGQyNWtlMjhiaXMzajRkZzYgY181ZDc0NDcwN2ViNjdmNzIwMDMxODQzZTc0MjllMzA0NWUzZWQwNDQwODJiM2QwZTBlMzc4NWJmNWRiZWMzZWJkQGc", 
+      "sequence": 0, 
+      "updated": "2023-06-06T17:28:32.552Z", 
+      "summary": "Campusvandring", 
+      "start": {
+        "timeZone": "Europe/Stockholm", 
+        "dateTime": "2023-08-15T15:00:00+02:00"
+      }, 
+      "etag": "\"3372145025104000\"", 
+      "eventType": "default", 
+      "organizer": {
+        "self": true, 
+        "displayName": "Nolle-P BIO1A", 
+        "email": "c_5d744707eb67f720031843e7429e3045e3ed044082b3d0e0e3785bf5dbec3ebd@group.calendar.google.com"
+      }, 
+      "creator": {
+        "email": "general@gudfadderiet.se"
+      }, 
+      "id": "1qomhhgm48d25ke28bis3j4dg6"
+    }, 
+    {
+      "status": "confirmed", 
+      "kind": "calendar#event", 
+      "end": {
+        "timeZone": "Europe/Stockholm", 
+        "dateTime": "2023-08-14T17:00:00+02:00"
+      }, 
+      "description": "<span>H\u00e4r kan tidiga och nyfikna N0llan f\u00e5 tr\u00e4ffa faddrar, och varandra, f\u00f6r att st\u00e4lla fr\u00e5gor ifall de vill ha svar p\u00e5 n\u00e5got innan N0lle-P har b\u00f6rjat. Faddrar kanske \u00e4ven har en del nyttig information som N0llan borde ta del av. Passa p\u00e5 att k\u00e4ka lite fika ocks\u00e5, N0llan. Gott, j\u00e4\u00e4\u00e4\u00e4ttegott.</span><br><span><br></span><u>\u00d6vrig Information</u><br><span><b>Mat:</b> Ja, n\u00e4stan, faddrarna bjuder N0llan p\u00e5 fika.<br></span><span><b>Alkohol:</b> Nej, det h\u00e4r \u00e4r ett alkoholfritt event.<br></span><span><b>Biljett: </b>Nej.</span><br><span></span>", 
+      "created": "2023-06-01T10:28:49.000Z", 
+      "iCalUID": "745fj4feddfq84mubk6j2crm5p@google.com", 
+      "reminders": {
+        "useDefault": true
+      }, 
+      "htmlLink": "https://www.google.com/calendar/event?eid=NzQ1Zmo0ZmVkZGZxODRtdWJrNmoyY3JtNXAgY181ZDc0NDcwN2ViNjdmNzIwMDMxODQzZTc0MjllMzA0NWUzZWQwNDQwODJiM2QwZTBlMzc4NWJmNWRiZWMzZWJkQGc", 
+      "sequence": 1, 
+      "updated": "2023-06-06T17:30:49.530Z", 
+      "summary": "Infofika", 
+      "start": {
+        "timeZone": "Europe/Stockholm", 
+        "dateTime": "2023-08-14T15:15:00+02:00"
+      }, 
+      "etag": "\"3372145299060000\"", 
+      "location": "P42", 
+      "eventType": "default", 
+      "organizer": {
+        "self": true, 
+        "displayName": "Nolle-P BIO1A", 
+        "email": "c_5d744707eb67f720031843e7429e3045e3ed044082b3d0e0e3785bf5dbec3ebd@group.calendar.google.com"
+      }, 
+      "creator": {
+        "email": "general@gudfadderiet.se"
+      }, 
+      "id": "745fj4feddfq84mubk6j2crm5p"
+    }, 
+    {
+      "status": "confirmed", 
+      "kind": "calendar#event", 
+      "end": {
+        "timeZone": "Europe/Stockholm", 
+        "dateTime": "2023-08-18T22:00:00+02:00"
+      }, 
+      "description": "<span>\u00c5hhhh vad roligt med nyplockade gr\u00f6nsaker. Det \u00e4r dags f\u00f6r n0llan att g\u00e5 p\u00e5 Sk\u00f6rdesitsen. N0llan ska kl\u00e4 sig i sin vackraste flanellskjorta eller pumpagubbe. Det kommer bli kul, j\u00e4ttteeeekuuuuuul.<br><br></span><span><u>\u00d6vrig Information<i><br></i></u></span><span><b>Mat:</b> Ja.<br></span><span><b>Alkohol:</b> Ja.<br></span><span><b>Biljett:</b> Nej.<br></span>", 
+      "created": "2023-06-01T12:35:16.000Z", 
+      "iCalUID": "2o7vq55e16qvoua4d6tfvp2c61@google.com", 
+      "reminders": {
+        "useDefault": true
+      }, 
+      "htmlLink": "https://www.google.com/calendar/event?eid=Mm83dnE1NWUxNnF2b3VhNGQ2dGZ2cDJjNjEgY181ZDc0NDcwN2ViNjdmNzIwMDMxODQzZTc0MjllMzA0NWUzZWQwNDQwODJiM2QwZTBlMzc4NWJmNWRiZWMzZWJkQGc", 
+      "sequence": 0, 
+      "updated": "2023-06-06T17:44:21.891Z", 
+      "summary": "Sk\u00f6rdesitsen", 
+      "start": {
+        "timeZone": "Europe/Stockholm", 
+        "dateTime": "2023-08-18T18:00:00+02:00"
+      }, 
+      "etag": "\"3372146923782000\"", 
+      "location": "Viagraparken, brevid vattnet", 
+      "eventType": "default", 
+      "organizer": {
+        "self": true, 
+        "displayName": "Nolle-P BIO1A", 
+        "email": "c_5d744707eb67f720031843e7429e3045e3ed044082b3d0e0e3785bf5dbec3ebd@group.calendar.google.com"
+      }, 
+      "creator": {
+        "email": "general@gudfadderiet.se"
+      }, 
+      "id": "2o7vq55e16qvoua4d6tfvp2c61"
+    }, 
+    {
+      "status": "confirmed", 
+      "kind": "calendar#event", 
+      "end": {
+        "timeZone": "Europe/Stockholm", 
+        "dateTime": "2023-08-17T19:00:00+02:00"
+      }, 
+      "description": "<span>Grundlig mattegenomg\u00e5ng som kommer beh\u00f6vas inom alla program p\u00e5 MatNat-sektionen.</span><br><u><span></span></u><br><span><u>\u00d6vrig Information</u></span><br><span><b>Mat: </b>Nej.</span><br><span><b>Alkohol: </b>Nej, N0llan ska aldrig dricka alkohol p\u00e5 en f\u00f6rel\u00e4sning.</span><br><span><b>Biljett:</b> Nej.</span><span><br></span>", 
+      "created": "2023-06-01T11:13:36.000Z", 
+      "iCalUID": "3k8jktd4sceo8lrs4afac3b390@google.com", 
+      "reminders": {
+        "useDefault": true
+      }, 
+      "htmlLink": "https://www.google.com/calendar/event?eid=M2s4amt0ZDRzY2VvOGxyczRhZmFjM2IzOTAgY181ZDc0NDcwN2ViNjdmNzIwMDMxODQzZTc0MjllMzA0NWUzZWQwNDQwODJiM2QwZTBlMzc4NWJmNWRiZWMzZWJkQGc", 
+      "sequence": 0, 
+      "updated": "2023-06-06T17:46:48.661Z", 
+      "summary": "F\u00f6rel\u00e4sning: Grundl\u00e4ggande Matematik f\u00f6r Universitetet", 
+      "start": {
+        "timeZone": "Europe/Stockholm", 
+        "dateTime": "2023-08-17T17:15:00+02:00"
+      }, 
+      "etag": "\"3372147217322000\"", 
+      "location": "C2", 
+      "eventType": "default", 
+      "organizer": {
+        "self": true, 
+        "displayName": "Nolle-P BIO1A", 
+        "email": "c_5d744707eb67f720031843e7429e3045e3ed044082b3d0e0e3785bf5dbec3ebd@group.calendar.google.com"
+      }, 
+      "creator": {
+        "email": "general@gudfadderiet.se"
+      }, 
+      "id": "3k8jktd4sceo8lrs4afac3b390"
+    }, 
+    {
+      "status": "confirmed", 
+      "kind": "calendar#event", 
+      "end": {
+        "timeZone": "Europe/Stockholm", 
+        "dateTime": "2023-08-17T13:00:00+02:00"
+      }, 
+      "description": "Fadderiet TackLING's egna Luncht\u00e4vling, det vill ni inte missa, N0llan!<br><br><u>\u00d6vrig Information</u><br><b>Mat:</b> Nej, men Gudfadderiet tipsar om att N0llan tar med matl\u00e5da.<br><b>Alkohol:</b> Nej, det h\u00e4r \u00e4r ett alkoholfritt event.<br><b>Biljett:</b> Nej, h\u00e4r \u00e4r alla N0llan v\u00e4lkomna.", 
+      "created": "2023-06-01T14:03:36.000Z", 
+      "iCalUID": "0p87it3vhj9bu7kt4fb44lq5kb@google.com", 
+      "reminders": {
+        "useDefault": true
+      }, 
+      "htmlLink": "https://www.google.com/calendar/event?eid=MHA4N2l0M3ZoajlidTdrdDRmYjQ0bHE1a2IgY181ZDc0NDcwN2ViNjdmNzIwMDMxODQzZTc0MjllMzA0NWUzZWQwNDQwODJiM2QwZTBlMzc4NWJmNWRiZWMzZWJkQGc", 
+      "sequence": 0, 
+      "updated": "2023-06-06T17:49:59.111Z", 
+      "summary": "Luncht\u00e4vling: SjukLing", 
+      "start": {
+        "timeZone": "Europe/Stockholm", 
+        "dateTime": "2023-08-17T12:15:00+02:00"
+      }, 
+      "etag": "\"3372147598222000\"", 
+      "location": "Amfi", 
+      "eventType": "default", 
+      "organizer": {
+        "self": true, 
+        "displayName": "Nolle-P BIO1A", 
+        "email": "c_5d744707eb67f720031843e7429e3045e3ed044082b3d0e0e3785bf5dbec3ebd@group.calendar.google.com"
+      }, 
+      "creator": {
+        "email": "general@gudfadderiet.se"
+      }, 
+      "id": "0p87it3vhj9bu7kt4fb44lq5kb"
+    }, 
+    {
+      "status": "confirmed", 
+      "kind": "calendar#event", 
+      "end": {
+        "timeZone": "Europe/Stockholm", 
+        "dateTime": "2023-08-18T13:00:00+02:00"
+      }, 
+      "description": "Y-fadderiets mastodontlika luncht\u00e4vling, detta vill N0llan inte missa!<br><br><span><u>\u00d6vrig Information</u><br><b>Mat:</b> Nej, men Gudfadderiet tipsar om att N0llan tar med matl\u00e5da.<br><b>Alkohol:</b> Nej, det h\u00e4r \u00e4r ett alkoholfritt event.<br><b>Biljett:</b> Nej, h\u00e4r \u00e4r alla N0llan v\u00e4lkomna.</span>", 
+      "created": "2023-06-01T14:04:51.000Z", 
+      "iCalUID": "1tppsam8unkqfsj3pdnesf71l9@google.com", 
+      "reminders": {
+        "useDefault": true
+      }, 
+      "htmlLink": "https://www.google.com/calendar/event?eid=MXRwcHNhbTh1bmtxZnNqM3BkbmVzZjcxbDkgY181ZDc0NDcwN2ViNjdmNzIwMDMxODQzZTc0MjllMzA0NWUzZWQwNDQwODJiM2QwZTBlMzc4NWJmNWRiZWMzZWJkQGc", 
+      "sequence": 0, 
+      "updated": "2023-06-06T17:52:40.003Z", 
+      "summary": "Luncht\u00e4vling: FyFa24", 
+      "start": {
+        "timeZone": "Europe/Stockholm", 
+        "dateTime": "2023-08-18T12:15:00+02:00"
+      }, 
+      "etag": "\"3372147920006000\"", 
+      "location": "Amfi", 
+      "eventType": "default", 
+      "organizer": {
+        "self": true, 
+        "displayName": "Nolle-P BIO1A", 
+        "email": "c_5d744707eb67f720031843e7429e3045e3ed044082b3d0e0e3785bf5dbec3ebd@group.calendar.google.com"
+      }, 
+      "creator": {
+        "email": "general@gudfadderiet.se"
+      }, 
+      "id": "1tppsam8unkqfsj3pdnesf71l9"
+    }, 
+    {
+      "status": "confirmed", 
+      "kind": "calendar#event", 
+      "end": {
+        "timeZone": "Europe/Stockholm", 
+        "dateTime": "2023-08-17T21:00:00+02:00"
+      }, 
+      "description": "<span>Ett ypperligt tillf\u00e4lle f\u00f6r N0llan att k\u00f6pa begagnad kurslitteratur och prova vilken storlek N0llan \u00f6nskar p\u00e5 overall.</span><br><span>\u00a0</span><br><span><u>\u00d6vrig Information</u></span><br><span><b>Mat:</b> Nej.</span><br><span><b>Alkohol:</b> Nej.</span><br><span><b>Biljett:</b> Nej.<br></span>", 
+      "created": "2023-06-01T11:48:49.000Z", 
+      "iCalUID": "1scd76qaigu8iloboph0jcqgrv@google.com", 
+      "reminders": {
+        "useDefault": true
+      }, 
+      "htmlLink": "https://www.google.com/calendar/event?eid=MXNjZDc2cWFpZ3U4aWxvYm9waDBqY3FncnYgY181ZDc0NDcwN2ViNjdmNzIwMDMxODQzZTc0MjllMzA0NWUzZWQwNDQwODJiM2QwZTBlMzc4NWJmNWRiZWMzZWJkQGc", 
+      "sequence": 0, 
+      "updated": "2023-06-06T18:03:56.394Z", 
+      "summary": "\u00c5terbruksdag & Ovveprovning", 
+      "start": {
+        "timeZone": "Europe/Stockholm", 
+        "dateTime": "2023-08-17T19:00:00+02:00"
+      }, 
+      "etag": "\"3372149272788000\"", 
+      "location": "P42, P36", 
+      "eventType": "default", 
+      "organizer": {
+        "self": true, 
+        "displayName": "Nolle-P BIO1A", 
+        "email": "c_5d744707eb67f720031843e7429e3045e3ed044082b3d0e0e3785bf5dbec3ebd@group.calendar.google.com"
+      }, 
+      "creator": {
+        "email": "general@gudfadderiet.se"
+      }, 
+      "id": "1scd76qaigu8iloboph0jcqgrv"
+    }, 
+    {
+      "status": "confirmed", 
+      "kind": "calendar#event", 
+      "end": {
+        "timeZone": "Europe/Stockholm", 
+        "dateTime": "2023-08-31T22:00:00+02:00"
+      }, 
+      "description": "<span>Oj oj, s\u00e5 fort N0llan v\u00e4xer upp. Kanske dags f\u00f6r N0llan att g\u00e5 p\u00e5 finsittning, kanske? N0llan ska f\u00e5 l\u00e4mna sina shorts och t-shirts hemma och ta p\u00e5 sig sina finaste kl\u00e4der. Det kommer bli kul N0llan, j\u00e4\u00e4\u00e4ttekul.<br><br></span><span><span><span><span><span><span><u>\u00d6vrig Information</u><br><b>Mat:</b> Ja<b><br>Alkohol:</b> Ja<b> </b><br><b>Biljett:</b></span> Ja</span><span><br></span></span></span></span></span>", 
+      "created": "2023-06-01T12:31:20.000Z", 
+      "iCalUID": "7id19qahh3ltj5hnarr8bojrpm@google.com", 
+      "reminders": {
+        "useDefault": true
+      }, 
+      "htmlLink": "https://www.google.com/calendar/event?eid=N2lkMTlxYWhoM2x0ajVobmFycjhib2pycG0gY181ZDc0NDcwN2ViNjdmNzIwMDMxODQzZTc0MjllMzA0NWUzZWQwNDQwODJiM2QwZTBlMzc4NWJmNWRiZWMzZWJkQGc", 
+      "sequence": 0, 
+      "updated": "2023-06-26T17:06:28.392Z", 
+      "summary": "Finsittning: Nollesitsen", 
+      "start": {
+        "timeZone": "Europe/Stockholm", 
+        "dateTime": "2023-08-31T18:15:00+02:00"
+      }, 
+      "etag": "\"3375598376784000\"", 
+      "location": "K\u00e5rhuset Kollektivet, \u00c5gatan 55, 582 22 Link\u00f6ping, Sverige", 
+      "eventType": "default", 
+      "organizer": {
+        "self": true, 
+        "displayName": "Nolle-P BIO1A", 
+        "email": "c_5d744707eb67f720031843e7429e3045e3ed044082b3d0e0e3785bf5dbec3ebd@group.calendar.google.com"
+      }, 
+      "creator": {
+        "email": "general@gudfadderiet.se"
+      }, 
+      "id": "7id19qahh3ltj5hnarr8bojrpm"
+    }, 
+    {
+      "status": "confirmed", 
+      "kind": "calendar#event", 
+      "end": {
+        "timeZone": "Europe/Stockholm", 
+        "dateTime": "2023-08-16T21:00:00+02:00"
+      }, 
+      "description": "<span>N0llan verkar hungrig och t\u00f6rstig efter en s\u00e5\u00e5\u00e5\u00e5\u00e5 l\u00e5ng dag i skolan. Gudfadderiet ska hj\u00e4lpa N0llan att stilla sina behov med mat och dryck i N0llans smak. Kanske kommer det n\u00e5gra och bes\u00f6ker N0llan. Detta \u00e4r ett mycket bra tillf\u00e4lle f\u00f6r N0llan att l\u00e4ra k\u00e4nna varandra. Gl\u00f6m inte att k\u00f6pa biljetter till N0lle-discot det blir kul J\u00e4\u00e4\u00e4\u00e4tttteee-kul.</span><br><span>\u00a0</span><br><span><u>\u00d6vrig Information</u><br><b>Mat:</b> Ja.<br><b>Alkohol: </b></span><span><span>Ja.</span></span><span><b></b><br><b>Biljett:</b></span><span><b> </b></span>Nej.", 
+      "created": "2023-06-01T10:23:38.000Z", 
+      "iCalUID": "2gh89b3fb0h0mhl973tcgta8mn@google.com", 
+      "reminders": {
+        "useDefault": true
+      }, 
+      "htmlLink": "https://www.google.com/calendar/event?eid=MmdoODliM2ZiMGgwbWhsOTczdGNndGE4bW4gY181ZDc0NDcwN2ViNjdmNzIwMDMxODQzZTc0MjllMzA0NWUzZWQwNDQwODJiM2QwZTBlMzc4NWJmNWRiZWMzZWJkQGc", 
+      "sequence": 0, 
+      "updated": "2023-06-26T17:14:21.891Z", 
+      "summary": "OMG-Grillen", 
+      "start": {
+        "timeZone": "Europe/Stockholm", 
+        "dateTime": "2023-08-16T17:00:00+02:00"
+      }, 
+      "etag": "\"3375599323782000\"", 
+      "location": "M-Grillen", 
+      "eventType": "default", 
+      "organizer": {
+        "self": true, 
+        "displayName": "Nolle-P BIO1A", 
+        "email": "c_5d744707eb67f720031843e7429e3045e3ed044082b3d0e0e3785bf5dbec3ebd@group.calendar.google.com"
+      }, 
+      "creator": {
+        "email": "general@gudfadderiet.se"
+      }, 
+      "id": "2gh89b3fb0h0mhl973tcgta8mn"
+    }, 
+    {
+      "status": "confirmed", 
+      "kind": "calendar#event", 
+      "end": {
+        "timeZone": "Europe/Stockholm", 
+        "dateTime": "2023-08-17T01:00:00+02:00"
+      }, 
+      "description": "<span>Oj oj\u2026 Har N0llan blivit inbjuden p\u00e5 N0llediscot? Det kommer bli kul, j\u00e4\u00e4\u00e4ttekul. Se till att k\u00f6pa biljetter N0llan, annars kommer N0llan inte sl\u00e4ppas in p\u00e5 dessa sp\u00e4nnande festligheter...</span><br><span>\u00a0</span><br><span><span><u>\u00d6vrig Information</u><br><b>Mat:</b> Ja.<br><b>Alkohol: </b></span><span><span>Ja.</span></span><span><b></b><br><b>Biljett:</b></span><span><b> </b></span>Ja.</span><span></span>", 
+      "created": "2023-06-01T14:10:46.000Z", 
+      "iCalUID": "0jikdie8t90ll1g2c3terlf9u7@google.com", 
+      "reminders": {
+        "useDefault": true
+      }, 
+      "htmlLink": "https://www.google.com/calendar/event?eid=MGppa2RpZTh0OTBsbDFnMmMzdGVybGY5dTcgY181ZDc0NDcwN2ViNjdmNzIwMDMxODQzZTc0MjllMzA0NWUzZWQwNDQwODJiM2QwZTBlMzc4NWJmNWRiZWMzZWJkQGc", 
+      "sequence": 1, 
+      "updated": "2023-06-26T17:15:18.068Z", 
+      "summary": "Nolledisco 1", 
+      "start": {
+        "timeZone": "Europe/Stockholm", 
+        "dateTime": "2023-08-16T21:00:00+02:00"
+      }, 
+      "etag": "\"3375599436136000\"", 
+      "location": "K\u00e5rallen, 581 83 Link\u00f6ping, Sverige", 
+      "eventType": "default", 
+      "organizer": {
+        "self": true, 
+        "displayName": "Nolle-P BIO1A", 
+        "email": "c_5d744707eb67f720031843e7429e3045e3ed044082b3d0e0e3785bf5dbec3ebd@group.calendar.google.com"
+      }, 
+      "creator": {
+        "email": "general@gudfadderiet.se"
+      }, 
+      "id": "0jikdie8t90ll1g2c3terlf9u7"
+    }, 
+    {
+      "status": "confirmed", 
+      "kind": "calendar#event", 
+      "end": {
+        "timeZone": "Europe/Stockholm", 
+        "dateTime": "2023-08-21T21:00:00+02:00"
+      }, 
+      "description": "<span>\u00c5h, b\u00e4st att N0llan piffar sig fint n\u00e4r de ska tr\u00e4ffa sina kompissektioner, TBi och Ling. Klockan 17:00 v\u00e4lkomnar festerierna Bi6 och VI-Ling N0llan till f\u00f6rdrink och stoj i M\u00e4rkesbacken. D\u00e4refter b\u00e4r det av till en mysig sittning i Hobent\u00e4ltet med temat Fling\u2026 vars\u00e5god att tolka fritt, N0llan. F\u00f6r att g\u00f6ra kv\u00e4llen \u00e4nnu b\u00e4ttre b\u00e4r det vid 21 av till K\u00e5rallen mot ett suuuuuperkul nolledisco.\u00a0</span><br><span>\u00a0</span><br><span><span><span><u>\u00d6vrig Information</u><br><b>Mat:</b> Ja.<br><b>Alkohol: </b></span><span><span>Ja.</span></span><span><b></b><br><b>Biljett:</b></span><span><b> </b></span>Ja.</span></span><span></span>", 
+      "created": "2023-06-01T13:16:26.000Z", 
+      "iCalUID": "5mrl8rg2k6jao3mqieebp22gls@google.com", 
+      "reminders": {
+        "useDefault": true
+      }, 
+      "htmlLink": "https://www.google.com/calendar/event?eid=NW1ybDhyZzJrNmphbzNtcWllZWJwMjJnbHMgY181ZDc0NDcwN2ViNjdmNzIwMDMxODQzZTc0MjllMzA0NWUzZWQwNDQwODJiM2QwZTBlMzc4NWJmNWRiZWMzZWJkQGc", 
+      "sequence": 0, 
+      "updated": "2023-06-26T17:16:36.045Z", 
+      "summary": "TBGFLing", 
+      "start": {
+        "timeZone": "Europe/Stockholm", 
+        "dateTime": "2023-08-21T17:00:00+02:00"
+      }, 
+      "etag": "\"3375599592090000\"", 
+      "location": "Stora Hobent\u00e4ltet", 
+      "eventType": "default", 
+      "organizer": {
+        "self": true, 
+        "displayName": "Nolle-P BIO1A", 
+        "email": "c_5d744707eb67f720031843e7429e3045e3ed044082b3d0e0e3785bf5dbec3ebd@group.calendar.google.com"
+      }, 
+      "creator": {
+        "email": "general@gudfadderiet.se"
+      }, 
+      "id": "5mrl8rg2k6jao3mqieebp22gls"
+    }, 
+    {
+      "status": "confirmed", 
+      "kind": "calendar#event", 
+      "end": {
+        "timeZone": "Europe/Stockholm", 
+        "dateTime": "2023-08-22T01:00:00+02:00"
+      }, 
+      "description": "<span>Tredje och \u00e4ven sista N0llediscot, mycket sp\u00e4nnande\u2026 STABEN och Gudfadderiet v\u00e4lkomnar N0llan till The Elements of the Forest. Festa galet men kom ih\u00e5g, Gudfadderiet ser allt N0llan g\u00f6r\u2026</span><br><span>\u00a0</span><br><span><span><span><u>\u00d6vrig Information</u><br><b>Mat:</b> Ja.<br><b>Alkohol: </b></span><span><span>Ja.</span></span><span><b></b><br><b>Biljett:</b></span><span><b> </b></span>Ja.</span></span><span></span>", 
+      "created": "2023-06-01T12:56:51.000Z", 
+      "iCalUID": "2f1vv1o1rkv2cl7e5nelmhc310@google.com", 
+      "reminders": {
+        "useDefault": true
+      }, 
+      "htmlLink": "https://www.google.com/calendar/event?eid=MmYxdnYxbzFya3YyY2w3ZTVuZWxtaGMzMTAgY181ZDc0NDcwN2ViNjdmNzIwMDMxODQzZTc0MjllMzA0NWUzZWQwNDQwODJiM2QwZTBlMzc4NWJmNWRiZWMzZWJkQGc", 
+      "sequence": 0, 
+      "updated": "2023-06-26T17:17:21.913Z", 
+      "summary": "Nolledisco 3", 
+      "start": {
+        "timeZone": "Europe/Stockholm", 
+        "dateTime": "2023-08-21T21:00:00+02:00"
+      }, 
+      "etag": "\"3375599683826000\"", 
+      "location": "K\u00e5rallen, 581 83 Link\u00f6ping, Sverige", 
+      "eventType": "default", 
+      "organizer": {
+        "self": true, 
+        "displayName": "Nolle-P BIO1A", 
+        "email": "c_5d744707eb67f720031843e7429e3045e3ed044082b3d0e0e3785bf5dbec3ebd@group.calendar.google.com"
+      }, 
+      "creator": {
+        "email": "general@gudfadderiet.se"
+      }, 
+      "id": "2f1vv1o1rkv2cl7e5nelmhc310"
+    }, 
+    {
+      "status": "confirmed", 
+      "kind": "calendar#event", 
+      "end": {
+        "timeZone": "Europe/Stockholm", 
+        "dateTime": "2023-08-22T21:00:00+02:00"
+      }, 
+      "description": "<p><span>Idag ska N0llan f\u00e5 tr\u00e4ffa diverse olika f\u00f6reningar och utskott som N0llan sj\u00e4lv kanske kommer engagera sig i en vacker dag. Suuuperkul, kanske!<br><span><u><br></u></span></span><span><span><span><u>\u00d6vrig Information</u><br><b>Mat:</b> Nej.<br><b>Alkohol:</b> Nej</span><span><span>.</span></span><span><br><b>Biljett:</b></span><span><b> </b></span>Nej.</span></span><span></span></p>", 
+      "created": "2023-06-01T10:24:31.000Z", 
+      "iCalUID": "2olqd9e35sqqq8aajmfd84mgfd@google.com", 
+      "reminders": {
+        "useDefault": true
+      }, 
+      "htmlLink": "https://www.google.com/calendar/event?eid=Mm9scWQ5ZTM1c3FxcThhYWptZmQ4NG1nZmQgY181ZDc0NDcwN2ViNjdmNzIwMDMxODQzZTc0MjllMzA0NWUzZWQwNDQwODJiM2QwZTBlMzc4NWJmNWRiZWMzZWJkQGc", 
+      "sequence": 0, 
+      "updated": "2023-06-26T17:18:20.848Z", 
+      "summary": "Studentlivets Dag", 
+      "start": {
+        "timeZone": "Europe/Stockholm", 
+        "dateTime": "2023-08-22T17:00:00+02:00"
+      }, 
+      "etag": "\"3375599801696000\"", 
+      "location": "Viagraparken", 
+      "eventType": "default", 
+      "organizer": {
+        "self": true, 
+        "displayName": "Nolle-P BIO1A", 
+        "email": "c_5d744707eb67f720031843e7429e3045e3ed044082b3d0e0e3785bf5dbec3ebd@group.calendar.google.com"
+      }, 
+      "creator": {
+        "email": "general@gudfadderiet.se"
+      }, 
+      "id": "2olqd9e35sqqq8aajmfd84mgfd"
+    }, 
+    {
+      "status": "confirmed", 
+      "kind": "calendar#event", 
+      "end": {
+        "timeZone": "Europe/Stockholm", 
+        "dateTime": "2023-08-24T01:00:00+02:00"
+      }, 
+      "description": "<span>Hoben bjuder in till oktoberfest och lovar N0llan att ni kommer ha oj s\u00e5 kul. De kommer \u00e4ven erbjuda mat och dryck mot en liten peng f\u00f6r N0llan som \u00e4r sugna p\u00e5 s\u00e5dant. Gl\u00f6m inte bort att k\u00f6pa en fin Hoben-sejdel, N0llan.<br><br></span><span><span><span><span><u>\u00d6vrig Information</u><br><b>Mat:</b> Ja.<br><b>Alkohol: </b></span><span><span>Ja.</span></span><span><b></b><br><b>Biljett:</b></span><span><b> </b></span>Ja.</span></span></span>", 
+      "created": "2023-06-01T12:23:34.000Z", 
+      "iCalUID": "20ndv4tmch0e1g329nucaddsgs@google.com", 
+      "reminders": {
+        "useDefault": true
+      }, 
+      "htmlLink": "https://www.google.com/calendar/event?eid=MjBuZHY0dG1jaDBlMWczMjludWNhZGRzZ3MgY181ZDc0NDcwN2ViNjdmNzIwMDMxODQzZTc0MjllMzA0NWUzZWQwNDQwODJiM2QwZTBlMzc4NWJmNWRiZWMzZWJkQGc", 
+      "sequence": 0, 
+      "updated": "2023-06-26T17:21:31.018Z", 
+      "summary": "M\u00fcnchen Hoben", 
+      "start": {
+        "timeZone": "Europe/Stockholm", 
+        "dateTime": "2023-08-23T15:00:00+02:00"
+      }, 
+      "etag": "\"3375600182036000\"", 
+      "location": "Bl\u00e5 havet, Link\u00f6pings universitet, Bl\u00e5 havet, 581 83 Link\u00f6ping, Sverige", 
+      "eventType": "default", 
+      "organizer": {
+        "self": true, 
+        "displayName": "Nolle-P BIO1A", 
+        "email": "c_5d744707eb67f720031843e7429e3045e3ed044082b3d0e0e3785bf5dbec3ebd@group.calendar.google.com"
+      }, 
+      "creator": {
+        "email": "general@gudfadderiet.se"
+      }, 
+      "id": "20ndv4tmch0e1g329nucaddsgs"
+    }, 
+    {
+      "status": "confirmed", 
+      "kind": "calendar#event", 
+      "end": {
+        "timeZone": "Europe/Stockholm", 
+        "dateTime": "2023-08-24T20:00:00+02:00"
+      }, 
+      "description": "<span>Faddrarna kommer att leda dig, N0llan, genom Link\u00f6ping f\u00f6r att introducera staden. N0llan beh\u00f6ver ej frukta f\u00f6r hunger, d\u00e5 Gudfadderiet bjuder p\u00e5 myyyyycket god mat. Kanske, har det ryktats om att det kommer bli g\u00fcckel, kanske\u2026 Suuuuperkul N0llan!<br><br></span><span><span><span><span><span><span><u>\u00d6vrig Information</u><br><b>Mat:</b> Ja<b>.<br>Alkohol: </b>Nej.<br><b>Biljett:</b></span><span><b> </b>Nej.</span></span><span><br></span></span></span></span></span>", 
+      "created": "2023-06-01T13:12:34.000Z", 
+      "iCalUID": "39qtljrecfo4p8c626l4cr298b@google.com", 
+      "reminders": {
+        "useDefault": true
+      }, 
+      "htmlLink": "https://www.google.com/calendar/event?eid=MzlxdGxqcmVjZm80cDhjNjI2bDRjcjI5OGIgY181ZDc0NDcwN2ViNjdmNzIwMDMxODQzZTc0MjllMzA0NWUzZWQwNDQwODJiM2QwZTBlMzc4NWJmNWRiZWMzZWJkQGc", 
+      "sequence": 0, 
+      "updated": "2023-06-26T17:22:35.997Z", 
+      "summary": "Stadsvandring", 
+      "start": {
+        "timeZone": "Europe/Stockholm", 
+        "dateTime": "2023-08-24T15:00:00+02:00"
+      }, 
+      "etag": "\"3375600311994000\"", 
+      "location": "Link\u00f6ping, Sverige", 
+      "eventType": "default", 
+      "organizer": {
+        "self": true, 
+        "displayName": "Nolle-P BIO1A", 
+        "email": "c_5d744707eb67f720031843e7429e3045e3ed044082b3d0e0e3785bf5dbec3ebd@group.calendar.google.com"
+      }, 
+      "creator": {
+        "email": "general@gudfadderiet.se"
+      }, 
+      "id": "39qtljrecfo4p8c626l4cr298b"
+    }, 
+    {
+      "status": "confirmed", 
+      "kind": "calendar#event", 
+      "end": {
+        "timeZone": "Europe/Stockholm", 
+        "dateTime": "2023-08-25T20:00:00+02:00"
+      }, 
+      "description": "<span>\u00d6verallt p\u00e5 campus syns konstiga typer, oj oj, Gudfadderist-bedragare, kanske? N0llan f\u00f6rtj\u00e4nar kanske en f\u00f6rklaring. Ikv\u00e4ll beh\u00f6ver N0llan inte oroa sig \u00f6ver mat och ska vara f\u00f6rberedda p\u00e5 en MYCKET viktig historielektion f\u00f6r Gudfadderiets hemliga, hemliga historia\u2026<br><br></span><span><span><span><span><span><span><span><u>\u00d6vrig Information</u><br><b>Mat:</b> Ja<b>.<br>Alkohol: </b>Nej.<br><b>Biljett:</b></span><span><b> </b>Nej.</span></span><span><br></span></span></span></span></span></span>", 
+      "created": "2023-06-01T12:06:27.000Z", 
+      "iCalUID": "1tchjvd2e5jl9vnotaf4l2l24v@google.com", 
+      "reminders": {
+        "useDefault": true
+      }, 
+      "htmlLink": "https://www.google.com/calendar/event?eid=MXRjaGp2ZDJlNWpsOXZub3RhZjRsMmwyNHYgY181ZDc0NDcwN2ViNjdmNzIwMDMxODQzZTc0MjllMzA0NWUzZWQwNDQwODJiM2QwZTBlMzc4NWJmNWRiZWMzZWJkQGc", 
+      "sequence": 0, 
+      "updated": "2023-06-26T17:23:47.857Z", 
+      "summary": "Gubbens Dag", 
+      "start": {
+        "timeZone": "Europe/Stockholm", 
+        "dateTime": "2023-08-25T17:15:00+02:00"
+      }, 
+      "etag": "\"3375600455714000\"", 
+      "location": "Omr\u00e5de 7", 
+      "eventType": "default", 
+      "organizer": {
+        "self": true, 
+        "displayName": "Nolle-P BIO1A", 
+        "email": "c_5d744707eb67f720031843e7429e3045e3ed044082b3d0e0e3785bf5dbec3ebd@group.calendar.google.com"
+      }, 
+      "creator": {
+        "email": "general@gudfadderiet.se"
+      }, 
+      "id": "1tchjvd2e5jl9vnotaf4l2l24v"
+    }, 
+    {
+      "status": "confirmed", 
+      "kind": "calendar#event", 
+      "end": {
+        "timeZone": "Europe/Stockholm", 
+        "dateTime": "2023-08-27T12:00:00+02:00"
+      }, 
+      "description": "<span>En hajkhelg f\u00f6r N0llan? Utm\u00e4rkt! Ta med din cykel s\u00e5 f\u00e5r du v\u00e4gledning av faddrar till en badplats. Mat kommer att serveras och N0llan kan sova \u00f6ver i t\u00e4lt!<br><br></span><span><span><span><span><span><span><span><u>\u00d6vrig Information</u><br><b>Mat:</b> Ja<b>.<br>Alkohol: </b>Nej.<br><b>Biljett:</b></span><span><b> </b>Nej.</span></span><span><br></span></span></span></span></span></span>", 
+      "created": "2023-06-01T11:00:17.000Z", 
+      "iCalUID": "35tmj28rmab1on9db34mj2bcpm@google.com", 
+      "reminders": {
+        "useDefault": true
+      }, 
+      "htmlLink": "https://www.google.com/calendar/event?eid=MzV0bWoyOHJtYWIxb245ZGIzNG1qMmJjcG0gY181ZDc0NDcwN2ViNjdmNzIwMDMxODQzZTc0MjllMzA0NWUzZWQwNDQwODJiM2QwZTBlMzc4NWJmNWRiZWMzZWJkQGc", 
+      "sequence": 0, 
+      "updated": "2023-06-26T17:24:33.781Z", 
+      "summary": "Hajken", 
+      "start": {
+        "timeZone": "Europe/Stockholm", 
+        "dateTime": "2023-08-26T13:00:00+02:00"
+      }, 
+      "etag": "\"3375600547562000\"", 
+      "location": "Svart\u00e5fors badplats, Svart\u00e5n, 590 76 Svart\u00e5fors, Sverige", 
+      "eventType": "default", 
+      "organizer": {
+        "self": true, 
+        "displayName": "Nolle-P BIO1A", 
+        "email": "c_5d744707eb67f720031843e7429e3045e3ed044082b3d0e0e3785bf5dbec3ebd@group.calendar.google.com"
+      }, 
+      "creator": {
+        "email": "general@gudfadderiet.se"
+      }, 
+      "id": "35tmj28rmab1on9db34mj2bcpm"
+    }, 
+    {
+      "status": "confirmed", 
+      "kind": "calendar#event", 
+      "end": {
+        "timeZone": "Europe/Stockholm", 
+        "dateTime": "2023-08-28T22:00:00+02:00"
+      }, 
+      "description": "<span>Ikv\u00e4ll ska N0llan f\u00e5 umg\u00e5s med sina faddrar.<br><br></span><span><span><span><span><span><span><span><u>\u00d6vrig Information</u><br><b>Mat:</b> Nej<b>.<br>Alkohol: </b>Nej.<br><b>Biljett:</b></span><span><b> </b>Nej.</span></span><span><br></span></span></span></span></span></span>", 
+      "created": "2023-06-01T10:26:40.000Z", 
+      "iCalUID": "0nq0p1dr2dg6g9eu8shi66sbl7@google.com", 
+      "reminders": {
+        "useDefault": true
+      }, 
+      "htmlLink": "https://www.google.com/calendar/event?eid=MG5xMHAxZHIyZGc2ZzlldThzaGk2NnNibDcgY181ZDc0NDcwN2ViNjdmNzIwMDMxODQzZTc0MjllMzA0NWUzZWQwNDQwODJiM2QwZTBlMzc4NWJmNWRiZWMzZWJkQGc", 
+      "sequence": 0, 
+      "updated": "2023-06-26T17:27:08.935Z", 
+      "summary": "Faddrarnas Dag", 
+      "start": {
+        "timeZone": "Europe/Stockholm", 
+        "dateTime": "2023-08-28T17:15:00+02:00"
+      }, 
+      "etag": "\"3375600857870000\"", 
+      "location": "Omr\u00e5de 2", 
+      "eventType": "default", 
+      "organizer": {
+        "self": true, 
+        "displayName": "Nolle-P BIO1A", 
+        "email": "c_5d744707eb67f720031843e7429e3045e3ed044082b3d0e0e3785bf5dbec3ebd@group.calendar.google.com"
+      }, 
+      "creator": {
+        "email": "general@gudfadderiet.se"
+      }, 
+      "id": "0nq0p1dr2dg6g9eu8shi66sbl7"
+    }, 
+    {
+      "status": "confirmed", 
+      "kind": "calendar#event", 
+      "end": {
+        "timeZone": "Europe/Stockholm", 
+        "dateTime": "2023-08-29T22:00:00+02:00"
+      }, 
+      "description": "<span>Ikv\u00e4ll f\u00e5r N0llan m\u00f6jligheten att g\u00e5 p\u00e5 studentspex, detta vill N0llan inte missa. J\u00e4tteroligt, kanske!<br><br></span><span><span><span><span><span><span><span><span><u>\u00d6vrig Information</u><br><b>Mat:</b> Nej<b>.<br>Alkohol: </b>Nej.<br><b>Biljett:</b></span><span><b> </b>Ja.</span></span><span><br></span></span></span></span></span></span></span>", 
+      "created": "2023-06-01T10:51:38.000Z", 
+      "iCalUID": "1f7oih49vsfmfm1n2cp6no1gb9@google.com", 
+      "reminders": {
+        "useDefault": true
+      }, 
+      "htmlLink": "https://www.google.com/calendar/event?eid=MWY3b2loNDl2c2ZtZm0xbjJjcDZubzFnYjkgY181ZDc0NDcwN2ViNjdmNzIwMDMxODQzZTc0MjllMzA0NWUzZWQwNDQwODJiM2QwZTBlMzc4NWJmNWRiZWMzZWJkQGc", 
+      "sequence": 0, 
+      "updated": "2023-06-26T17:27:57.470Z", 
+      "summary": "Nollan g\u00e5r p\u00e5 Spex", 
+      "start": {
+        "timeZone": "Europe/Stockholm", 
+        "dateTime": "2023-08-29T19:00:00+02:00"
+      }, 
+      "etag": "\"3375600954940000\"", 
+      "location": "Forumteatern, \u00c5gatan 55, 582 22 Link\u00f6ping, Sverige", 
+      "eventType": "default", 
+      "organizer": {
+        "self": true, 
+        "displayName": "Nolle-P BIO1A", 
+        "email": "c_5d744707eb67f720031843e7429e3045e3ed044082b3d0e0e3785bf5dbec3ebd@group.calendar.google.com"
+      }, 
+      "creator": {
+        "email": "general@gudfadderiet.se"
+      }, 
+      "id": "1f7oih49vsfmfm1n2cp6no1gb9"
+    }, 
+    {
+      "status": "confirmed", 
+      "kind": "calendar#event", 
+      "end": {
+        "timeZone": "Europe/Stockholm", 
+        "dateTime": "2023-08-30T20:00:00+02:00"
+      }, 
+      "description": "<span>Godkv\u00e4\u00e4\u00e4\u00e4\u00e4ll N0llan, ni ska f\u00e5 tr\u00e4ffa Matnats alldeles egna partyprissar 4-Verkeriet. \u00c5\u00e5\u00e5h vad kul, j\u00e4tttekuuuuuuul. 4V har f\u00f6rberett j\u00e4tteroooliga lekar f\u00f6r N0llan. V\u00e4ldigt rooligt. N0llan borde verkligen passa p\u00e5 att st\u00e4lla fr\u00e5gor till det fina 4-Verkeriet. Kuuuuuul. <br><br></span><span><span><span><span><span><span><span><span><span><u>\u00d6vrig Information</u><br><b>Mat:</b> Nej<b>.<br>Alkohol: </b>Nej.<br><b>Biljett:</b></span><span><b> </b>Nej.</span></span><span><br></span></span></span></span></span></span></span></span>", 
+      "created": "2023-06-01T12:37:06.000Z", 
+      "iCalUID": "1mb813vok0b9gqjiqpu5h0g38d@google.com", 
+      "reminders": {
+        "useDefault": true
+      }, 
+      "htmlLink": "https://www.google.com/calendar/event?eid=MW1iODEzdm9rMGI5Z3FqaXFwdTVoMGczOGQgY181ZDc0NDcwN2ViNjdmNzIwMDMxODQzZTc0MjllMzA0NWUzZWQwNDQwODJiM2QwZTBlMzc4NWJmNWRiZWMzZWJkQGc", 
+      "sequence": 0, 
+      "updated": "2023-06-26T17:28:52.307Z", 
+      "summary": "4-Verkeriets Dag", 
+      "start": {
+        "timeZone": "Europe/Stockholm", 
+        "dateTime": "2023-08-30T17:00:00+02:00"
+      }, 
+      "etag": "\"3375601064614000\"", 
+      "location": "Omr\u00e5de 3", 
+      "eventType": "default", 
+      "organizer": {
+        "self": true, 
+        "displayName": "Nolle-P BIO1A", 
+        "email": "c_5d744707eb67f720031843e7429e3045e3ed044082b3d0e0e3785bf5dbec3ebd@group.calendar.google.com"
+      }, 
+      "creator": {
+        "email": "general@gudfadderiet.se"
+      }, 
+      "id": "1mb813vok0b9gqjiqpu5h0g38d"
+    }, 
+    {
+      "status": "confirmed", 
+      "kind": "calendar#event", 
+      "end": {
+        "timeZone": "Europe/Stockholm", 
+        "dateTime": "2023-08-18T18:00:00+02:00"
+      }, 
+      "description": "<span>N0llan f\u00e5r h\u00e4r tid f\u00f6r att arbeta p\u00e5 sina N0lleuppdrag tillsammans med sin grupp och diverse faddrar. Samtliga uppdrag kommer \u00e4ven att visas upp under dessa tillf\u00e4llen. Det vill du inte missa!</span><br><span>\u00a0</span><br><span><span><u>\u00d6vrig Information</u></span><br><span><b>Mat:</b> Nej, men kan f\u00f6rekomma fika om N0llan har tur.</span><br><span><b>Alkohol: </b>Nej, det h\u00e4r \u00e4r ett alkoholfritt event.</span><br><span><b>Biljett:</b> Nej, ingen biljett kr\u00e4vs.</span></span><span> <br></span>", 
+      "created": "2023-06-01T13:54:02.000Z", 
+      "iCalUID": "49bn4gvdrspujo37o4ea3irlnj@google.com", 
+      "reminders": {
+        "useDefault": true
+      }, 
+      "htmlLink": "https://www.google.com/calendar/event?eid=NDlibjRndmRyc3B1am8zN280ZWEzaXJsbmogY181ZDc0NDcwN2ViNjdmNzIwMDMxODQzZTc0MjllMzA0NWUzZWQwNDQwODJiM2QwZTBlMzc4NWJmNWRiZWMzZWJkQGc", 
+      "sequence": 0, 
+      "updated": "2023-06-27T17:11:42.682Z", 
+      "summary": "Nolleuppdrag", 
+      "start": {
+        "timeZone": "Europe/Stockholm", 
+        "dateTime": "2023-08-18T17:00:00+02:00"
+      }, 
+      "etag": "\"3375771805364000\"", 
+      "location": "R19, R23", 
+      "eventType": "default", 
+      "organizer": {
+        "self": true, 
+        "displayName": "Nolle-P BIO1A", 
+        "email": "c_5d744707eb67f720031843e7429e3045e3ed044082b3d0e0e3785bf5dbec3ebd@group.calendar.google.com"
+      }, 
+      "creator": {
+        "email": "general@gudfadderiet.se"
+      }, 
+      "id": "49bn4gvdrspujo37o4ea3irlnj"
+    }, 
+    {
+      "status": "confirmed", 
+      "kind": "calendar#event", 
+      "end": {
+        "timeZone": "Europe/Stockholm", 
+        "dateTime": "2023-08-22T22:00:00+02:00"
+      }, 
+      "description": "<span><br><span>N0llan f\u00e5r h\u00e4r tid f\u00f6r att arbeta p\u00e5 sina N0lleuppdrag tillsammans med sin grupp och diverse faddrar. Samtliga uppdrag kommer \u00e4ven att visas upp under dessa tillf\u00e4llen. Det vill du inte missa!</span></span><br><span><span>\u00a0</span></span><br><span><span><span><span><u>\u00d6vrig Information</u></span><br><span><b>Mat:</b> Nej, men kan f\u00f6rekomma fika om N0llan har tur.</span><br><span><b>Alkohol: </b>Nej, det h\u00e4r \u00e4r ett alkoholfritt event.</span><br><span><b>Biljett:</b> Nej, ingen biljett kr\u00e4vs.</span></span>\u00a0 </span><span><span><br></span></span></span><span><span>\u00a0</span></span>", 
+      "created": "2023-06-01T13:56:09.000Z", 
+      "iCalUID": "5buktf6r8l0up9vjmlrrn0482s@google.com", 
+      "reminders": {
+        "useDefault": true
+      }, 
+      "htmlLink": "https://www.google.com/calendar/event?eid=NWJ1a3RmNnI4bDB1cDl2am1scnJuMDQ4MnMgY181ZDc0NDcwN2ViNjdmNzIwMDMxODQzZTc0MjllMzA0NWUzZWQwNDQwODJiM2QwZTBlMzc4NWJmNWRiZWMzZWJkQGc", 
+      "sequence": 0, 
+      "updated": "2023-06-27T17:16:23.296Z", 
+      "summary": "Nolleuppdrag", 
+      "start": {
+        "timeZone": "Europe/Stockholm", 
+        "dateTime": "2023-08-22T21:00:00+02:00"
+      }, 
+      "etag": "\"3375772366592000\"", 
+      "location": "R19, R23", 
+      "eventType": "default", 
+      "organizer": {
+        "self": true, 
+        "displayName": "Nolle-P BIO1A", 
+        "email": "c_5d744707eb67f720031843e7429e3045e3ed044082b3d0e0e3785bf5dbec3ebd@group.calendar.google.com"
+      }, 
+      "creator": {
+        "email": "general@gudfadderiet.se"
+      }, 
+      "id": "5buktf6r8l0up9vjmlrrn0482s"
+    }, 
+    {
+      "status": "confirmed", 
+      "kind": "calendar#event", 
+      "end": {
+        "timeZone": "Europe/Stockholm", 
+        "dateTime": "2023-08-24T22:00:00+02:00"
+      }, 
+      "description": "<span><br><span>N0llan f\u00e5r h\u00e4r tid f\u00f6r att arbeta p\u00e5 sina N0lleuppdrag tillsammans med sin grupp och diverse faddrar. Samtliga uppdrag kommer \u00e4ven att visas upp under dessa tillf\u00e4llen. Det vill du inte missa!</span></span><br><span><span>\u00a0</span></span><br><span><span><span><span><u>\u00d6vrig Information</u></span><br><span><b>Mat:</b> Nej, men kan f\u00f6rekomma fika om N0llan har tur.</span><br><span><b>Alkohol: </b>Nej, det h\u00e4r \u00e4r ett alkoholfritt event.</span><br><span><b>Biljett:</b> Nej, ingen biljett kr\u00e4vs.</span></span>\u00a0 </span><span><span><br></span></span></span><span><span>\u00a0</span></span>", 
+      "created": "2023-06-01T13:56:37.000Z", 
+      "iCalUID": "43hpkia2km74i7gon71ikrrbc9@google.com", 
+      "reminders": {
+        "useDefault": true
+      }, 
+      "htmlLink": "https://www.google.com/calendar/event?eid=NDNocGtpYTJrbTc0aTdnb243MWlrcnJiYzkgY181ZDc0NDcwN2ViNjdmNzIwMDMxODQzZTc0MjllMzA0NWUzZWQwNDQwODJiM2QwZTBlMzc4NWJmNWRiZWMzZWJkQGc", 
+      "sequence": 0, 
+      "updated": "2023-06-27T17:16:59.677Z", 
+      "summary": "Nolleuppdrag", 
+      "start": {
+        "timeZone": "Europe/Stockholm", 
+        "dateTime": "2023-08-24T20:00:00+02:00"
+      }, 
+      "etag": "\"3375772439354000\"", 
+      "location": "R19, R23", 
+      "eventType": "default", 
+      "organizer": {
+        "self": true, 
+        "displayName": "Nolle-P BIO1A", 
+        "email": "c_5d744707eb67f720031843e7429e3045e3ed044082b3d0e0e3785bf5dbec3ebd@group.calendar.google.com"
+      }, 
+      "creator": {
+        "email": "general@gudfadderiet.se"
+      }, 
+      "id": "43hpkia2km74i7gon71ikrrbc9"
+    }, 
+    {
+      "status": "confirmed", 
+      "kind": "calendar#event", 
+      "end": {
+        "timeZone": "Europe/Stockholm", 
+        "dateTime": "2023-08-25T16:00:00+02:00"
+      }, 
+      "description": "<span><span><span><span><u>\u00d6vrig Information</u></span><br><span><b>Mat:</b> Nej.</span><br><span><b>Alkohol: </b>Nej, det h\u00e4r \u00e4r ett alkoholfritt event.</span><br><span><b>Biljett:</b> Nej, ingen biljett kr\u00e4vs.</span></span>\u00a0 </span><span><span><br></span></span></span>", 
+      "created": "2023-06-01T14:06:56.000Z", 
+      "iCalUID": "7acc8ql81eamhphu6df42u6sl7@google.com", 
+      "reminders": {
+        "useDefault": true
+      }, 
+      "htmlLink": "https://www.google.com/calendar/event?eid=N2FjYzhxbDgxZWFtaHBodTZkZjQydTZzbDcgY181ZDc0NDcwN2ViNjdmNzIwMDMxODQzZTc0MjllMzA0NWUzZWQwNDQwODJiM2QwZTBlMzc4NWJmNWRiZWMzZWJkQGc", 
+      "sequence": 0, 
+      "updated": "2023-06-27T17:17:42.919Z", 
+      "summary": "Luncht\u00e4vling: H\u00e4fvet", 
+      "start": {
+        "timeZone": "Europe/Stockholm", 
+        "dateTime": "2023-08-25T15:15:00+02:00"
+      }, 
+      "etag": "\"3375772525838000\"", 
+      "eventType": "default", 
+      "organizer": {
+        "self": true, 
+        "displayName": "Nolle-P BIO1A", 
+        "email": "c_5d744707eb67f720031843e7429e3045e3ed044082b3d0e0e3785bf5dbec3ebd@group.calendar.google.com"
+      }, 
+      "creator": {
+        "email": "general@gudfadderiet.se"
+      }, 
+      "id": "7acc8ql81eamhphu6df42u6sl7"
+    }, 
+    {
+      "status": "confirmed", 
+      "kind": "calendar#event", 
+      "end": {
+        "timeZone": "Europe/Stockholm", 
+        "dateTime": "2023-08-25T17:00:00+02:00"
+      }, 
+      "description": "<span><br><span><span><span><span><u>\u00d6vrig Information</u></span><br><span><b>Mat:</b> Nej.</span><br><span><b>Alkohol: </b>Nej, det h\u00e4r \u00e4r ett alkoholfritt event.</span><br><span><b>Biljett:</b> Nej, ingen biljett kr\u00e4vs.</span></span>\u00a0 </span><span><span><br></span></span></span></span>", 
+      "created": "2023-06-01T14:08:04.000Z", 
+      "iCalUID": "3rkle8ai6dv8q98mnrg90sbqm0@google.com", 
+      "reminders": {
+        "useDefault": true
+      }, 
+      "htmlLink": "https://www.google.com/calendar/event?eid=M3JrbGU4YWk2ZHY4cTk4bW5yZzkwc2JxbTAgY181ZDc0NDcwN2ViNjdmNzIwMDMxODQzZTc0MjllMzA0NWUzZWQwNDQwODJiM2QwZTBlMzc4NWJmNWRiZWMzZWJkQGc", 
+      "sequence": 0, 
+      "updated": "2023-06-27T17:18:09.131Z", 
+      "summary": "Megaympningen", 
+      "start": {
+        "timeZone": "Europe/Stockholm", 
+        "dateTime": "2023-08-25T16:00:00+02:00"
+      }, 
+      "etag": "\"3375772578262000\"", 
+      "eventType": "default", 
+      "organizer": {
+        "self": true, 
+        "displayName": "Nolle-P BIO1A", 
+        "email": "c_5d744707eb67f720031843e7429e3045e3ed044082b3d0e0e3785bf5dbec3ebd@group.calendar.google.com"
+      }, 
+      "creator": {
+        "email": "general@gudfadderiet.se"
+      }, 
+      "id": "3rkle8ai6dv8q98mnrg90sbqm0"
+    }, 
+    {
+      "status": "confirmed", 
+      "kind": "calendar#event", 
+      "end": {
+        "timeZone": "Europe/Stockholm", 
+        "dateTime": "2023-08-16T13:00:00+02:00"
+      }, 
+      "description": "<span>Det allvetande Gudfadderiet f\u00f6rst\u00e5r att det \u00e4r l\u00e4skigt att \u00e4ta sj\u00e4lv, N0llan. D\u00e4rf\u00f6r \u00e4r det myyycket viktigt att N0llan infinner sig med en varm matl\u00e5da p\u00e5 MatNat-kullen 12.15, kanske f\u00e5r N0llan n\u00e5gra mycket viktiga uppdrag fr\u00e5n Gudfadderiet\u2026 </span><br><span>\u00a0</span><br><span><u>\u00d6vrig Information</u></span><br><span><b>Mat:</b> Nej, men Gudfadderiet uppmanar N0llan att ta med matl\u00e5da.</span><br><span><b>Alkohol: </b>Nej, det h\u00e4r \u00e4r ett alkoholfritt event.</span><br><span><b>Biljett:</b> Nej, ingen biljett kr\u00e4vs.<br></span>", 
+      "created": "2023-06-01T10:28:06.000Z", 
+      "iCalUID": "3bnej8eduoo5lqvsda59r1egt4@google.com", 
+      "reminders": {
+        "useDefault": true
+      }, 
+      "htmlLink": "https://www.google.com/calendar/event?eid=M2JuZWo4ZWR1b281bHF2c2RhNTlyMWVndDQgY181ZDc0NDcwN2ViNjdmNzIwMDMxODQzZTc0MjllMzA0NWUzZWQwNDQwODJiM2QwZTBlMzc4NWJmNWRiZWMzZWJkQGc", 
+      "sequence": 0, 
+      "updated": "2023-06-28T14:40:32.309Z", 
+      "summary": "MatNat-vard 1", 
+      "start": {
+        "timeZone": "Europe/Stockholm", 
+        "dateTime": "2023-08-16T12:15:00+02:00"
+      }, 
+      "etag": "\"3375926464618000\"", 
+      "location": "MatNat-kullen", 
+      "eventType": "default", 
+      "organizer": {
+        "self": true, 
+        "displayName": "Nolle-P BIO1A", 
+        "email": "c_5d744707eb67f720031843e7429e3045e3ed044082b3d0e0e3785bf5dbec3ebd@group.calendar.google.com"
+      }, 
+      "creator": {
+        "email": "general@gudfadderiet.se"
+      }, 
+      "id": "3bnej8eduoo5lqvsda59r1egt4"
+    }, 
+    {
+      "status": "confirmed", 
+      "kind": "calendar#event", 
+      "end": {
+        "timeZone": "Europe/Stockholm", 
+        "dateTime": "2023-08-23T13:00:00+02:00"
+      }, 
+      "description": "<span>Guten Tag Dienull! W\u00e4rmen Sie die Lunchbox auf und ziehen Sie Ihre Lederhosen an, denn heute Abend ist das M\u00fcnchen Hoben! Aber oh oh, Dienull muss vielleicht erst ein paar Fakten \u00fcber Deutschland erfahren, daher ist es SEHR wichtig, dass die Dienull auf dem heutigen MatNatvard erscheint.</span><br><span>\u00a0</span><br><span><span><span><u>\u00d6vrig Information</u><br><b>Mat:</b> Nej, men Gudfadderiet tipsar om att N0llan tar med matl\u00e5da.<br><b>Alkohol:</b> Nej, det h\u00e4r \u00e4r ett alkoholfritt event.<br><b>Biljett:</b> Nej, h\u00e4r \u00e4r alla N0llan v\u00e4lkomna.</span></span></span>", 
+      "created": "2023-06-01T10:30:16.000Z", 
+      "iCalUID": "4v5f23iqajhju1rs80deejm1f7@google.com", 
+      "reminders": {
+        "useDefault": true
+      }, 
+      "htmlLink": "https://www.google.com/calendar/event?eid=NHY1ZjIzaXFhamhqdTFyczgwZGVlam0xZjcgY181ZDc0NDcwN2ViNjdmNzIwMDMxODQzZTc0MjllMzA0NWUzZWQwNDQwODJiM2QwZTBlMzc4NWJmNWRiZWMzZWJkQGc", 
+      "sequence": 0, 
+      "updated": "2023-06-28T14:42:30.597Z", 
+      "summary": "MatNat-vard 2", 
+      "start": {
+        "timeZone": "Europe/Stockholm", 
+        "dateTime": "2023-08-23T12:15:00+02:00"
+      }, 
+      "etag": "\"3375926701194000\"", 
+      "location": "MatNat-Kullen", 
+      "eventType": "default", 
+      "organizer": {
+        "self": true, 
+        "displayName": "Nolle-P BIO1A", 
+        "email": "c_5d744707eb67f720031843e7429e3045e3ed044082b3d0e0e3785bf5dbec3ebd@group.calendar.google.com"
+      }, 
+      "creator": {
+        "email": "general@gudfadderiet.se"
+      }, 
+      "id": "4v5f23iqajhju1rs80deejm1f7"
+    }, 
+    {
+      "status": "confirmed", 
+      "kind": "calendar#event", 
+      "end": {
+        "timeZone": "Europe/Stockholm", 
+        "dateTime": "2023-08-25T13:00:00+02:00"
+      }, 
+      "description": "<span>Idag har N0llan en l\u00e5\u00e5\u00e5ng dag framf\u00f6r sig, n\u00e5gra kommer h\u00e4fva utan spill och resten kommer heja p\u00e5 MatNats egna h\u00e4fvlag. F\u00f6r att f\u00f6rbereda sig ska N0llan f\u00e5 n\u00e5gra st\u00e4rkande ord av det allsm\u00e4ktiga Gudfadderiet.</span><br><span>\u00a0</span><br><span><span><span><u>\u00d6vrig Information</u><br><b>Mat:</b> Nej, men Gudfadderiet tipsar om att N0llan tar med matl\u00e5da.<br><b>Alkohol:</b> Nej, det h\u00e4r \u00e4r ett alkoholfritt event.<br><b>Biljett:</b> Nej, h\u00e4r \u00e4r alla N0llan v\u00e4lkomna.</span></span></span>", 
+      "created": "2023-06-01T10:30:54.000Z", 
+      "iCalUID": "2qk559l4r354jokc47u9mir1rh@google.com", 
+      "reminders": {
+        "useDefault": true
+      }, 
+      "htmlLink": "https://www.google.com/calendar/event?eid=MnFrNTU5bDRyMzU0am9rYzQ3dTltaXIxcmggY181ZDc0NDcwN2ViNjdmNzIwMDMxODQzZTc0MjllMzA0NWUzZWQwNDQwODJiM2QwZTBlMzc4NWJmNWRiZWMzZWJkQGc", 
+      "sequence": 0, 
+      "updated": "2023-06-28T14:43:43.210Z", 
+      "summary": "MatNat-vard 3", 
+      "start": {
+        "timeZone": "Europe/Stockholm", 
+        "dateTime": "2023-08-25T12:15:00+02:00"
+      }, 
+      "etag": "\"3375926846420000\"", 
+      "location": "MatNat-Kullen", 
+      "eventType": "default", 
+      "organizer": {
+        "self": true, 
+        "displayName": "Nolle-P BIO1A", 
+        "email": "c_5d744707eb67f720031843e7429e3045e3ed044082b3d0e0e3785bf5dbec3ebd@group.calendar.google.com"
+      }, 
+      "creator": {
+        "email": "general@gudfadderiet.se"
+      }, 
+      "id": "2qk559l4r354jokc47u9mir1rh"
+    }, 
+    {
+      "status": "confirmed", 
+      "kind": "calendar#event", 
+      "end": {
+        "timeZone": "Europe/Stockholm", 
+        "dateTime": "2023-08-28T13:00:00+02:00"
+      }, 
+      "description": "<span>Denna MatNat-vard \u00e4r det dags f\u00f6r Gudfadderiet att dansa efter Faddrarnas pipa. Det blir en spektakul\u00e4r show enligt faddrarnas regi. Ta med en varm matl\u00e5da och njut av f\u00f6rest\u00e4llningen.</span><br><span>\u00a0</span><br><span><span><span><u>\u00d6vrig Information</u><br><b>Mat:</b> Nej, men Gudfadderiet tipsar om att N0llan tar med matl\u00e5da.<br><b>Alkohol:</b> Nej, det h\u00e4r \u00e4r ett alkoholfritt event.<br><b>Biljett:</b> Nej, h\u00e4r \u00e4r alla N0llan v\u00e4lkomna.</span></span></span>", 
+      "created": "2023-06-01T10:31:38.000Z", 
+      "iCalUID": "1tl35b2n3n9o2b0bjftv7dd889@google.com", 
+      "reminders": {
+        "useDefault": true
+      }, 
+      "htmlLink": "https://www.google.com/calendar/event?eid=MXRsMzViMm4zbjlvMmIwYmpmdHY3ZGQ4ODkgY181ZDc0NDcwN2ViNjdmNzIwMDMxODQzZTc0MjllMzA0NWUzZWQwNDQwODJiM2QwZTBlMzc4NWJmNWRiZWMzZWJkQGc", 
+      "sequence": 0, 
+      "updated": "2023-06-28T14:45:21.428Z", 
+      "summary": "MatNat-vard 4", 
+      "start": {
+        "timeZone": "Europe/Stockholm", 
+        "dateTime": "2023-08-28T12:15:00+02:00"
+      }, 
+      "etag": "\"3375927042856000\"", 
+      "location": "MatNat-Kullen", 
+      "eventType": "default", 
+      "organizer": {
+        "self": true, 
+        "displayName": "Nolle-P BIO1A", 
+        "email": "c_5d744707eb67f720031843e7429e3045e3ed044082b3d0e0e3785bf5dbec3ebd@group.calendar.google.com"
+      }, 
+      "creator": {
+        "email": "general@gudfadderiet.se"
+      }, 
+      "id": "1tl35b2n3n9o2b0bjftv7dd889"
+    }, 
+    {
+      "status": "confirmed", 
+      "kind": "calendar#event", 
+      "end": {
+        "timeZone": "Europe/Stockholm", 
+        "dateTime": "2023-08-30T13:00:00+02:00"
+      }, 
+      "description": "<span>Idag \u00e4r det en sorgsen dag N0llan, f\u00f6r idag \u00e4r det N0llans sista MatNatvard. Men N0llan f\u00e5r icke frukta, efter idag kan N0llan vara s\u00e4ker p\u00e5 att N0llan har l\u00e4rt sig konsten att \u00e4ta sin matl\u00e5da med sina v\u00e4nner. Gudfadderiet \u00e4r hur som helst MYCKET exalterade f\u00f6r att f\u00e5 se vad N0llan har haft f\u00f6r si</span><span>g, Gudfadderiet har redan sett allt, men tycker att n0llan ska f\u00e5 visa oss en g\u00e5ng till.</span><br><span>\u00a0</span><br><span><span><span><u>\u00d6vrig Information</u><br><b>Mat:</b> Nej, men Gudfadderiet tipsar om att N0llan tar med matl\u00e5da.<br><b>Alkohol:</b> Nej, det h\u00e4r \u00e4r ett alkoholfritt event.<br><b>Biljett:</b> Nej, h\u00e4r \u00e4r alla N0llan v\u00e4lkomna.</span></span></span>", 
+      "created": "2023-06-01T10:32:12.000Z", 
+      "iCalUID": "7eg81cs86cqv0gsrulbnlcp9lo@google.com", 
+      "reminders": {
+        "useDefault": true
+      }, 
+      "htmlLink": "https://www.google.com/calendar/event?eid=N2VnODFjczg2Y3F2MGdzcnVsYm5sY3A5bG8gY181ZDc0NDcwN2ViNjdmNzIwMDMxODQzZTc0MjllMzA0NWUzZWQwNDQwODJiM2QwZTBlMzc4NWJmNWRiZWMzZWJkQGc", 
+      "sequence": 0, 
+      "updated": "2023-06-28T14:46:50.459Z", 
+      "summary": "MatNat-vard 5", 
+      "start": {
+        "timeZone": "Europe/Stockholm", 
+        "dateTime": "2023-08-30T12:15:00+02:00"
+      }, 
+      "etag": "\"3375927220918000\"", 
+      "location": "MatNat-Kullen", 
+      "eventType": "default", 
+      "organizer": {
+        "self": true, 
+        "displayName": "Nolle-P BIO1A", 
+        "email": "c_5d744707eb67f720031843e7429e3045e3ed044082b3d0e0e3785bf5dbec3ebd@group.calendar.google.com"
+      }, 
+      "creator": {
+        "email": "general@gudfadderiet.se"
+      }, 
+      "id": "7eg81cs86cqv0gsrulbnlcp9lo"
+    }, 
+    {
+      "status": "confirmed", 
+      "kind": "calendar#event", 
+      "end": {
+        "timeZone": "Europe/Stockholm", 
+        "dateTime": "2023-08-22T13:00:00+02:00"
+      }, 
+      "description": "<span>N\u00e4men, \u00e4nnu en luncht\u00e4vling, N0llan! N\u00e4mligen Urfadderiets luncht\u00e4vling Turbinen!</span><br><span>\u00a0</span><br><span><span><span><u>\u00d6vrig Information</u><br><b>Mat:</b> Nej, men Gudfadderiet tipsar om att N0llan tar med matl\u00e5da.<br><b>Alkohol:</b> Nej, det h\u00e4r \u00e4r ett alkoholfritt event.<br><b>Biljett:</b> Nej, h\u00e4r \u00e4r alla N0llan v\u00e4lkomna.</span></span></span>", 
+      "created": "2023-06-01T14:01:03.000Z", 
+      "iCalUID": "0ode15fuv87vij7no54idb0064@google.com", 
+      "reminders": {
+        "useDefault": true
+      }, 
+      "htmlLink": "https://www.google.com/calendar/event?eid=MG9kZTE1ZnV2ODd2aWo3bm81NGlkYjAwNjQgY181ZDc0NDcwN2ViNjdmNzIwMDMxODQzZTc0MjllMzA0NWUzZWQwNDQwODJiM2QwZTBlMzc4NWJmNWRiZWMzZWJkQGc", 
+      "sequence": 1, 
+      "updated": "2023-06-28T14:50:04.808Z", 
+      "summary": "Luncht\u00e4vling: Turbinen", 
+      "start": {
+        "timeZone": "Europe/Stockholm", 
+        "dateTime": "2023-08-22T12:15:00+02:00"
+      }, 
+      "etag": "\"3375927609616000\"", 
+      "location": "Amfi", 
+      "eventType": "default", 
+      "organizer": {
+        "self": true, 
+        "displayName": "Nolle-P BIO1A", 
+        "email": "c_5d744707eb67f720031843e7429e3045e3ed044082b3d0e0e3785bf5dbec3ebd@group.calendar.google.com"
+      }, 
+      "creator": {
+        "email": "general@gudfadderiet.se"
+      }, 
+      "id": "0ode15fuv87vij7no54idb0064"
+    }, 
+    {
+      "status": "confirmed", 
+      "kind": "calendar#event", 
+      "end": {
+        "timeZone": "Europe/Stockholm", 
+        "dateTime": "2023-08-21T13:00:00+02:00"
+      }, 
+      "description": "<span>Nu \u00e4r det dags f\u00f6r t\u00e4vling igen, N0llan. STABENs luncht\u00e4vling D-rift!<br></span><br><span><span><u>\u00d6vrig Information</u><br><b>Mat:</b> Nej, men Gudfadderiet tipsar om att N0llan tar med matl\u00e5da.<br><b>Alkohol:</b> Nej, det h\u00e4r \u00e4r ett alkoholfritt event.<br><b>Biljett:</b> Nej, h\u00e4r \u00e4r alla N0llan v\u00e4lkomna.</span></span>", 
+      "created": "2023-06-01T14:02:17.000Z", 
+      "iCalUID": "4h2eqjonvisr6imtpbd9npcd9h@google.com", 
+      "reminders": {
+        "useDefault": true
+      }, 
+      "htmlLink": "https://www.google.com/calendar/event?eid=NGgyZXFqb252aXNyNmltdHBiZDlucGNkOWggY181ZDc0NDcwN2ViNjdmNzIwMDMxODQzZTc0MjllMzA0NWUzZWQwNDQwODJiM2QwZTBlMzc4NWJmNWRiZWMzZWJkQGc", 
+      "sequence": 0, 
+      "updated": "2023-06-28T14:52:20.497Z", 
+      "summary": "Luncht\u00e4vling: D-rift", 
+      "start": {
+        "timeZone": "Europe/Stockholm", 
+        "dateTime": "2023-08-21T12:15:00+02:00"
+      }, 
+      "etag": "\"3375927880994000\"", 
+      "location": "M\u00e4rkesbacken, Link\u00f6ping, Sverige", 
+      "eventType": "default", 
+      "organizer": {
+        "self": true, 
+        "displayName": "Nolle-P BIO1A", 
+        "email": "c_5d744707eb67f720031843e7429e3045e3ed044082b3d0e0e3785bf5dbec3ebd@group.calendar.google.com"
+      }, 
+      "creator": {
+        "email": "general@gudfadderiet.se"
+      }, 
+      "id": "4h2eqjonvisr6imtpbd9npcd9h"
+    }, 
+    {
+      "status": "confirmed", 
+      "kind": "calendar#event", 
+      "end": {
+        "timeZone": "Europe/Stockholm", 
+        "dateTime": "2023-08-24T13:00:00+02:00"
+      }, 
+      "description": "<span>Dags f\u00f6r t\u00e4vling, N0llan! Kom till Amfi f\u00f6r att se p\u00e5 Gudfadderiets alldeles egna luncht\u00e4vling.</span><br><span>\u00a0</span><br><span><span><span><u>\u00d6vrig Information</u><br><b>Mat:</b> Nej, men Gudfadderiet tipsar om att N0llan tar med matl\u00e5da.<br><b>Alkohol:</b> Nej, det h\u00e4r \u00e4r ett alkoholfritt event.<br><b>Biljett:</b> Nej, h\u00e4r \u00e4r alla N0llan v\u00e4lkomna.</span></span></span>", 
+      "created": "2023-06-01T10:33:41.000Z", 
+      "iCalUID": "70dtvcstcsp2o55h5hil2sfda8@google.com", 
+      "reminders": {
+        "useDefault": true
+      }, 
+      "htmlLink": "https://www.google.com/calendar/event?eid=NzBkdHZjc3Rjc3AybzU1aDVoaWwyc2ZkYTggY181ZDc0NDcwN2ViNjdmNzIwMDMxODQzZTc0MjllMzA0NWUzZWQwNDQwODJiM2QwZTBlMzc4NWJmNWRiZWMzZWJkQGc", 
+      "sequence": 0, 
+      "updated": "2023-06-28T14:54:19.846Z", 
+      "summary": "Luncht\u00e4vling: G-Force", 
+      "start": {
+        "timeZone": "Europe/Stockholm", 
+        "dateTime": "2023-08-24T12:15:00+02:00"
+      }, 
+      "etag": "\"3375928119692000\"", 
+      "location": "Amfi", 
+      "eventType": "default", 
+      "organizer": {
+        "self": true, 
+        "displayName": "Nolle-P BIO1A", 
+        "email": "c_5d744707eb67f720031843e7429e3045e3ed044082b3d0e0e3785bf5dbec3ebd@group.calendar.google.com"
+      }, 
+      "creator": {
+        "email": "general@gudfadderiet.se"
+      }, 
+      "id": "70dtvcstcsp2o55h5hil2sfda8"
+    }
+  ], 
+  "updated": "2023-06-28T14:54:19.846Z", 
+  "summary": "Nolle-P BIO1A", 
+  "etag": "\"p33o8lechjjjfu0g\"", 
+  "nextSyncToken": "CPCKuZGc5v8CEPCKuZGc5v8CGAUg1PmmggI=", 
+  "timeZone": "Europe/Stockholm", 
+  "accessRole": "owner"
+}

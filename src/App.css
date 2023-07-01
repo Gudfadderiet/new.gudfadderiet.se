@@ -1,4 +1,69 @@
+:root {
+  --background-color: #061a1b;
+  --title-color: yellow;
+  --link-color: #608132;
+  --color: #c58d56;
+  --color-variation: #8e5135;
+
+  --font-size-small: 16px;
+  --font-size-medium: 20px;
+  --font-size-large: 32px;
+  --font-size-xlarge: 48px;
+}
+
+@font-face {
+  font-family: 'GF-font';
+  src: url('./fonts/PR\ Viking.ttf') format('truetype');
+}
+
+h1, hr {
+  font-size: var(--font-size-xlarge);
+  color: var(--title-color);
+}
+
+h2 {
+  font-size: var(--font-size-large);
+  color: var(--title-color);
+}
+
+h3 {
+  font-size: var(--font-size-medium);
+  color: var(--title-color);
+}
+
+i {
+  font-size: var(--font-size-small);
+  color: var(--color);
+}
+
+p {
+  font-size: var(--font-size-medium);
+  color: var(--color);
+}
+
+a {
+  font-size: var(--font-size-medium);
+  color: var(--link-color);
+}
+
 .App {
   text-align: center;
-  background-color: black;
+  background-color: var(--background-color);
+}
+
+.Theme {
+  font-family: 'GF-font', sans-serif;
+  font-weight: bolder;
+  color: var(--title-color);
+}  
+
+.Theme-Nollan {
+  font-family: 'GF-font', sans-serif;
+  font-weight: bolder;
+  color: var(--color-variation);
+}  
+
+.App-Section {
+  margin-top: 32px;
+  margin-bottom: 32px;
 }

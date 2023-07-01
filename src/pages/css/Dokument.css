@@ -1,5 +1,4 @@
 .Dokument {
-    background-color: black;
     width: 50%;
     margin: auto;
     min-height: 100vh;
@@ -7,4 +6,11 @@
     flex-direction: column;
     color: yellow;
     text-align: left;
+}
+
+/* Adjust font size for smaller screens */
+@media only screen and (max-width: 768px) {
+    .Dokument {
+        width: 90vw;
+    }
 }

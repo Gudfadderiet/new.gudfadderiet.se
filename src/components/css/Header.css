@@ -1,15 +1,65 @@
-.Header-Img-Wrapper {
-    background-color: black;
+:root {
+    --background-color: #061a1b;
 }
 
-.GF-Img {
-    width: 45%;
-    padding: 16px;
+@font-face {
+    font-family: 'GF-font';
+    src: url('../../fonts/PR\ Viking.ttf') format('truetype');
 }
 
-.GF-Logo {
-    width: 64px;
-    padding: 16px;
+.Header {
+    position: relative;
+  }
+  
+
+  @keyframes fadeOut {
+    0% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 0;
+    }
+  }
+
+  @keyframes fadeOutLogo {
+    0% {
+      opacity: 0.4;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+    
+  .GF-Text {
+    font-family: 'GF-font', sans-serif;
+    font-size: 128px;
     position: absolute;
-    left: 0;
-}
+    top: 50%; /* Position the text 50% from the top of the container */
+    left: 50%; /* Position the text 50% from the left of the container */
+    transform: translate(-50%, -75%); /* Center-align the text both horizontally and vertically */
+    animation: fadeOut 5s linear forwards;
+  }
+
+  /* Adjust font size for smaller screens */
+  @media only screen and (max-width: 768px) {
+    .GF-Text {
+      font-size: 64px;
+      top: 65%;
+    }
+  }
+
+  /* Adjust font size for smaller screens */
+  @media only screen and (max-width: 400px) {
+    .GF-Text {
+      font-size: 56px;
+      top: 70%;
+    }
+  }
+
+  .Header img {
+    padding-top: 32px;
+    height: 256px;
+    display: block; /* Ensure the image takes up the full width of the container */
+    margin: 0 auto; /* Center-align the image horizontally */
+    animation: fadeOutLogo 5s linear forwards;
+  }
